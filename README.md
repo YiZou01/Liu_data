@@ -9,35 +9,35 @@ Yi Zou, Department of Health Environmental Sciences, School of Science, Xi'an Ji
 
 The dataset contains 4 documents:
 
-1. "Species_name.csv" is species names related species codes:
-  Sp.Code: species code
-  Date: Sampling date
+1. "Species_name.csv" is species names related species codes:  
+Sp.Code: species code  
+Date: Sampling date  
 
-2. "Body_length.csv" is the body and proboscis; each of the column refers to the following:
-  Specimen: Specimen code
-  Sp.Code: Species code
-  proboscis: proboscis length (mm)
-  body: body length (mm)
+3. "Body_length.csv" is the body and proboscis; each of the column refers to the following:  
+  Specimen: Specimen code  
+  Sp.Code: Species code  
+  proboscis: proboscis length (mm)  
+  body: body length (mm)  
 
-3. "Pollen_load.csv" is the pollen load (number of pollen grains) for each species of each part of the body; each of the column refers to the following:
-  Date: Sampling date
-  Specimen.code: specimen code
-  Sp.Code: Species code
-  T.head: Thrum pollen load on the head
-  P.head: Pin pollen load on the head
-  T.proboscis: Thrum pollen load on the proboscis
-  P.proboscis: Pin pollen load on the proboscis
-  T.thorax: Thrum pollen load on the thorax
-  P.thorax: Pin pollen load on the thorax	
-  T.abdomen: Thrum pollen load on the abdomen
-  P.abdomen: Pin pollen load on the abdomen
-  T.leg: Thrum pollen load on the leg
-  P.leg: Pin pollen load on the leg
+4. "Pollen_load.csv" is the pollen load (number of pollen grains) for each species of each part of the body; each of the column refers to the following:  
+  Date: Sampling date  
+  Specimen.code: specimen code  
+  Sp.Code: Species code  
+  T.head: Thrum pollen load on the head  
+  P.head: Pin pollen load on the head  
+  T.proboscis: Thrum pollen load on the proboscis  
+  P.proboscis: Pin pollen load on the proboscis  
+  T.thorax: Thrum pollen load on the thorax  
+  P.thorax: Pin pollen load on the thorax  
+  T.abdomen: Thrum pollen load on the abdomen  
+  P.abdomen: Pin pollen load on the abdomen  
+  T.leg: Thrum pollen load on the leg  
+  P.leg: Pin pollen load on the leg  
 
-4. "Visit_Duration.csv" is the flower visiting duration of each spceis; each of the column refers to the following:
-  Video code: Video code
-  Sp.Code: Species code
-  Type.flower: Flower morph (T: Thrum; P: Pin)
-  No. flowers visited: Number of flower visited
-  Time used: Time used (seconds)
-  Visit duration: Visit duration per flower (s)
+5. "Visit_Duration.csv" is the flower visiting duration of each spceis; each of the column refers to the following:  
+  Video code: Video code  
+  Sp.Code: Species code  
+  Type.flower: Flower morph (T: Thrum; P: Pin)  
+  No. flowers visited: Number of flower visited  
+  Time used: Time used (seconds)  
+  Visit duration: Visit duration per flower (s)  
