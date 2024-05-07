@@ -1,12 +1,10 @@
-# Liu_data
-This is data from:  Liu, R., Chen, D., Xu, S., &amp; Zou, Y. (2024) The impact of pollinator functional traits on pollination effectiveness is shaped by floral morphs in distylous plant species. Accepted for publication in Botanical Journal of the Linnean Society.
+# Summary
+This is data from:  Liu, R., Chen, D., Xu, S., &amp; Zou, Y. (2024) The impact of pollinator functional traits on pollination effectiveness is shaped by floral morphs in distylous plant species. Accepted for publication in Botanical Journal of the Linnean Society.https://doi.org/10.1093/botlinnean/boae030
 
 # Creator
-
 Yi Zou, Department of Health Environmental Sciences, School of Science, Xi'an Jiaotong-Liverpool University, Suzhou, China. email: yi.zou.1@hotmail.com
 
 # Description
-
 The dataset contains 4 documents:
 
 1. "Species_name.csv" is species names related species codes:  
