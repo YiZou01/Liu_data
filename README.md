@@ -8,18 +8,18 @@ Yi Zou, Department of Health Environmental Sciences, School of Science, Xi'an Ji
 The dataset contains 4 documents:
 
 1. "Species_name.csv" is species names related species codes:  
-Sp.Code: species code  
-Date: Sampling date  
+Sp.Code: Species code  
+Species: Species name  
 
 3. "Body_length.csv" is the body and proboscis; each of the column refers to the following:  
   Specimen: Specimen code  
   Sp.Code: Species code  
-  proboscis: proboscis length (mm)  
-  body: body length (mm)  
+  proboscis: Proboscis length (mm)  
+  body: Body length (mm)  
 
 4. "Pollen_load.csv" is the pollen load (number of pollen grains) for each species of each part of the body; each of the column refers to the following:  
   Date: Sampling date  
-  Specimen.code: specimen code  
+  Specimen.code: Specimen code  
   Sp.Code: Species code  
   T.head: Thrum pollen load on the head  
   P.head: Pin pollen load on the head  
@@ -36,6 +36,6 @@ Date: Sampling date
   Video code: Video code  
   Sp.Code: Species code  
   Type.flower: Flower morph (T: Thrum; P: Pin)  
-  No. flowers visited: Number of flower visited  
+  No. flowers visited: Number of flowers visited  
   Time used: Time used (seconds)  
-  Visit duration: Visit duration per flower (s)  
+  Visit duration: Visit duration per flower (seconds)  
